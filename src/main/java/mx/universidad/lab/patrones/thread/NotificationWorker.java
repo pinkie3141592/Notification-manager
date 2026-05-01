@@ -2,8 +2,6 @@ package thread;
 import singleton.NotificationLogger;
 import model.Notification;
 import factory.NotificationFactory;
-import auxs.Utilidades;
-
 
 public class NotificationWorker implements Runnable{
 

@@ -1,3 +1,23 @@
+# Compilados de Java
 *.class
-*.docx
-*.zip
+
+# Archivos de IntelliJ / IDEs
+.idea/
+*.iml
+
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Backup raro que tienes
+..gitignore.un~
+
+# (Opcional) ignorar docs si no los quieres subir
+# *.docx
+
